@@ -1,3 +1,5 @@
+Just my own version where most of the extra/building blocks are removed. Currently haven't started, will be wip for a while.
+
 ## 🟥 NOTICE! PLEASE READ! 🟥
 
 ### The links below currently do not work!
